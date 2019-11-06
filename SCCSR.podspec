@@ -21,10 +21,10 @@ Pod::Spec.new do |s|
 Helper functions to create a Certificate Signature Request.
                        DESC
 
-  s.homepage         = 'https://github.com/eaceto/SCCSR'
+  s.homepage         = 'https://github.com/libscudo/SCCSR-iOS'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'eaceto' => 'eaceto@afip.gob.ar' }
-  s.source           = { :git => 'https://github.com/eaceto/SCCSR.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/libscudo/SCCSR-iOS.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/eaceto_pub'
 
   s.ios.deployment_target = '10.0'
