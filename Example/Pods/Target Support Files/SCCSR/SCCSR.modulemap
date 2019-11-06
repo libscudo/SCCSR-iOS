@@ -1,0 +1,6 @@
+framework module SCCSR {
+  umbrella header "SCCSR-umbrella.h"
+
+  export *
+  module * { export * }
+}
